@@ -139,9 +139,7 @@ a:active {
   flex-direction: column;
   margin-top: 100px;
   list-style: none;
-  background-color:;
-  padding: 16px;
-  margin: 200px;
+  margin: 100px;
 }
 
 .sectionone__items__h1 {
@@ -163,6 +161,7 @@ a:active {
 .sectionone__items__div__two {
   padding: 2rem;
 }
+
 .sectionone__items__div__two__li {
   list-style-type: none;
   box-shadow: rgba(202, 201, 201, 0.4) 0 30px 90px;
@@ -198,7 +197,5 @@ a:active {
 }
 
 .sectionone__items__btn {
-  box-shadow: none;
   background-color: rgba(247, 196, 171, 0.915);
 }
-
