@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-- Use `git clone` to clone the repository using the HTTPS link into your local machine
+- Use `git clone https://github.com/mrkamin/to-do-list` to clone the repository using the HTTPS link into your local machine
 
 ### Setup
 
@@ -44,6 +44,9 @@ To get a local copy up and running follow these simple steps.
 ### Usage
 
 - Open the index file and enjoy
+
+
+
 ## Authors
 
 👤 **Author1**
