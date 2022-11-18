@@ -27,9 +27,23 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
+### Prerequisites
 
+- Use `git clone` to clone the repository using the HTTPS link into your local machine
+
+### Setup
+
+- `cd` into your local repository
+
+### Install
+
+- `npm install` - Installs the necessary dependencies
+
+### Usage
+
+- Open the index file and enjoy
 ## Authors
 
 👤 **Author1**
