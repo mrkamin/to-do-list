@@ -105,8 +105,8 @@ To get a local copy up and running follow these simple steps.
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add unique ID for each tasks]**
-- [ ] **[]**
-- [ ] **[]**
+- [ ] **[Add]**
+- [ ] **[Add]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
