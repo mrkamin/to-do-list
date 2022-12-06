@@ -101,6 +101,7 @@ h3 {
 hr {
   width: 100%;
 }
+
 .sect__one {
   display: flex;
   flex-direction: column;
@@ -127,14 +128,14 @@ hr {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding: 0px 16px;
+  padding: 0 16px;
 }
 
 .sect__one__cont__item1 {
   border: none;
   border-radius: 5px;
   width: 100%;
-  padding: 0px 16px;
+  padding: 0 16px;
 }
 
 .sect__one__cont__item2 {
@@ -148,16 +149,16 @@ hr {
   width: 100%;
   display: flex;
   gap: 10px;
-  padding: 0px 16px;
+  padding: 0 16px;
 }
 
 .sign {
   display: flex;
   gap: 5px;
 }
+
 .paragraph {
   display: flex;
-  gap: px;
   width: 100%;
 }
 
