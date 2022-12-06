@@ -93,8 +93,9 @@ body {
   background-size: cover;
 }
 
-h1, h3 {
-color: var(--C-BLUE);
+h1,
+h3 {
+  color: var(--C-BLUE);
 }
 
 hr {
@@ -123,10 +124,10 @@ hr {
 }
 
 .head {
-display: flex;
-justify-content: space-between;
-width: 100%;
-padding: 0px 16px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0px 16px;
 }
 
 .sect__one__cont__item1 {
@@ -153,7 +154,6 @@ padding: 0px 16px;
 .sign {
   display: flex;
   gap: 5px;
-  
 }
 .paragraph {
   display: flex;
@@ -196,7 +196,6 @@ padding: 0px 16px;
   padding: 5px;
   border: none;
   border-radius: 5px;
-  
 }
 
 #del__btn {
